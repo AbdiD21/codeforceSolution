@@ -21,4 +21,3 @@ for count in range(t):
         print("NO")
     else:
         print("YES")
-
