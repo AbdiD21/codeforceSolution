@@ -1,5 +1,4 @@
 
-
 t = int(input())
 for count in range(t):
     n = int(input())
