@@ -10,5 +10,5 @@ for j in range(n):
         if j != k:
             if teams[j][0] == teams[k][1]:
                 count += 1
-
+   
 print(count)

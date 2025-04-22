@@ -21,6 +21,7 @@ for j in range(t):
     print(res)
 
 
+
 '''
 def can_form_date(drawn_digits):
     target_digits = [0, 1, 0, 3, 2, 0, 2, 5]  # target for "01.03.2025"
