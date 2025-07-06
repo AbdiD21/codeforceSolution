@@ -1,5 +1,5 @@
 n = int(input())
-words = [input() for _ in range(n)]
+#words = [input() for _ in range(n)]
 
 results = []
 for word in words:
