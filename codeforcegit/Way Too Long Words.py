@@ -4,7 +4,7 @@ words = []
 for count in range(n):
     word = input()
     words.append(word)
-# words = [input() for _ in range(n)]
+#words = [input() for count in range(n)]
 
 results = []
 for word in words:
