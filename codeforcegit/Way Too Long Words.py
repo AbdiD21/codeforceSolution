@@ -11,5 +11,5 @@ for word in words:
 
 print("\n".join(results))
 
-    
+
 " Way Too Long Words "
