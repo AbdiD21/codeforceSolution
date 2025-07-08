@@ -1,7 +1,6 @@
-n = int(input())  # Number of elements
-numbers = list(map(int, input().split()))  # List of numbers
+n = int(input())
+numbers = list(map(int, input().split()))
 
-# Create a list of the parity (0 if even, 1 if odd) for each number
 parity = []
 for num in numbers:
     parity.append(num % 2)
